@@ -1,0 +1,22 @@
+body{
+    margin:0 20px;
+    background-color: rgb(246, 234, 219);
+}
+.text{
+    padding:0 0 50px 15px;
+}
+h2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 55px;
+}
+p{
+    margin-top: -40px;
+    font-size: 13px;
+}
+img{
+    border: 1px solid black;
+    width: 100%;
+}
+img:hover{
+    opacity:0.5;
+}
